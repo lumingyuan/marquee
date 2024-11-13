@@ -7,7 +7,7 @@ repository: https://github.com/MarcelGarus/marquee
 
 environment:
   flutter: ">=3.0.0"
-  sdk: "^3.5.0"
+  sdk: "^3.4.0"
 dependencies:
   fading_edge_scrollview: ^4.1.1
   flutter:
